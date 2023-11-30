@@ -37,9 +37,13 @@ Context from reference source for tie ins:
 <head>
 <title> Sources </title>
 </head>
-<body> Reference: 
+<body> Reference: Younger Dryas - Wikipedia 
 
-  3 Secondaries: 
+  3 Secondaries: Premature rejection in science: The case of the Younger Dryas Impact Hypothesis (sagepub.com)
+
+Multiple lines of evidence for possible Human population decline/settlement reorganization during the early Younger Dryas - ScienceDirect
+
+The Younger Dryas impact hypothesis: Review of the impact evidence - ScienceDirect
 
   5 Primaries: 
 </body>
