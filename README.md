@@ -2,7 +2,7 @@
 Place for Projects to be placed for ideas or possibly for final edits.
 <html> 
 <head>
-  <title> Younger Dryas Impact Thory </title>
+  <title> Younger Dryas Impact Theory </title>
 </head>
 <body> Historical Argument: 
 
