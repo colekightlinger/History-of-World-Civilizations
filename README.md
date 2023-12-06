@@ -5,7 +5,11 @@ Place for Projects to be placed for ideas or possibly for final edits.
 </head>
  <title> Younger Dryas Impact Theory </title>
 
-<body> Historical Argument: 
+<body>
+<h1> Historical Argument: </h1>
+<p> 
+
+</p>
 
   
 
@@ -22,12 +26,24 @@ Place for Projects to be placed for ideas or possibly for final edits.
   ![image](https://github.com/colekightlinger/History-of-World-Civilizations/assets/25617747/267774e9-04df-4973-9402-73ec53468967)
  
 <br>
-Primary Source 1 Analysis and context:
-Primary Source 2 Analysis and context:
-Primary Source 3 Analysis and context:
-Primary Source 4 Analysis and context:
-Primary Source 5 Analysis and context:
-
+<p> Primary Source 1 Analysis and context:
+</p>
+<br>
+<p> Primary Source 2 Analysis and context:
+</p>
+<br> 
+<p> Primary Source 3 Analysis and context: 
+</p>
+<br> 
+<p> Primary Source 4 Analysis and context:
+</p>
+<br> 
+<p>  Primary Source 5 Analysis and context: 
+</p>
+<br> 
+<p>  Primary Source 6 Analysis and context:
+</p>
+<br> 
 Secondary Source context for anlysis from above per first source:
 Secondary Source context for anlysis from above per second source:
 Secondary Source context for anlysis from above per third source:
@@ -47,7 +63,7 @@ Context from reference source for tie ins:
 
   
 
-<h2> Sources </h2>
+<h1> Sources </h1>
 
 Reference: Younger Dryas - Wikipedia 
 <br>
