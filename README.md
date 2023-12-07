@@ -46,7 +46,9 @@ The evidence produced for the theory came from geological samples of sediments d
 
 <br> 
 
-Secondary source tie ins for context
+<p> While te debate about whether this theory is accurate or not is still ongoing there seem to be two different sides of this theory, one is whether it was possible for a commet to cause the Laurentide Ice Sheet collapsed while the other side is that there is not enough systematic evidence of the Younger Dryas impact Theory to conclude that it is real. When it was first itroduced back in 2007 it introduced a rush of scientific professionals to conduct their own independent studies on the possibilities described but most ended in failure as the "Black Mat" layers described in the initial Hypothesis was nowhere to be found upon independent research. As for the wildfire that they claimed coverd half the continent of North America, a charcoal expert, Jennifer Marlon, after 2 years of research was unable to find any evidence of the so called mass wildfires that such a celestial impact would have caused. This is just one side of the theory, on the other side is Allen West, a retired geophysicist who claims the experts contradicting this theory radiocarbon dated the spike in wildfires wrong and that their proposed 13,200 years was actually 12,800 years ago when the Younger Dryas period started. 
+
+</p>
 
 
 <br>
@@ -64,14 +66,15 @@ Secondary source tie ins for context
 
 <h1> Sources </h1>
 
-Reference: Younger Dryas - Wikipedia 
 <br>
-  3 Secondaries: Premature rejection in science: The case of the Younger Dryas Impact Hypothesis (sagepub.com)
+  3 Secondaries: Premature rejection in science: The case of the Younger Dryas Impact Hypothesis (sagepub.com) (1) 
 
-Why won’t this debate about an ancient cold snap die? (sciencenews.org)
+Why won’t this debate about an ancient cold snap die? (sciencenews.org) (2) 
 
-The Younger Dryas impact hypothesis: Review of the impact evidence - ScienceDirect
+The Younger Dryas impact hypothesis: Review of the impact evidence - ScienceDirect (3) 
 
-  5 Primaries images from one source: file:///C:/Users/colek/Downloads/Firestoneetal.YDBinPNAS2007.pdf 
+  5 Primaries images from one source: file:///C:/Users/colek/Downloads/Firestoneetal.YDBinPNAS2007.pdf (0) 
+
+  Reference Source: https://en.wikipedia.org/wiki/Younger_Dryas (4) 
 </body>
 </html>
