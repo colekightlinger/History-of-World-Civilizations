@@ -19,6 +19,7 @@ This hypothesis was first proposed in 2007 as a reason for why the Younger Dryas
 
 ![image](https://github.com/colekightlinger/History-of-World-Civilizations/assets/25617747/825ee763-3c98-45fa-9bb2-8305e5b4f590) 
   <br>
+  <h5> Cpaption needed for each image including where the image is from, why it's useful for this argument, and whats's being measured</h5>
   
 <h4> 2 </h4>
 
