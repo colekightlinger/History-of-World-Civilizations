@@ -16,22 +16,27 @@ This hypothesis was first proposed in 2007 as a reason for why the Younger Dryas
 
   
 <h4> 1 </h4> 
+
 ![image](https://github.com/colekightlinger/History-of-World-Civilizations/assets/25617747/825ee763-3c98-45fa-9bb2-8305e5b4f590) 
   <br>
   
 <h4> 2 </h4>
+
 ![image](https://github.com/colekightlinger/History-of-World-Civilizations/assets/25617747/09e12600-3d6b-4cbb-85f3-31d977a3ffd5)
  <br>
   
 <h4> 3 </h4>
+
 ![image](https://github.com/colekightlinger/History-of-World-Civilizations/assets/25617747/5cf885dd-30a5-46f1-95bf-81cbb3b6a972)
  <br>
   
 <h4> 4 </h4>
+
 ![image](https://github.com/colekightlinger/History-of-World-Civilizations/assets/25617747/36e7c56f-7c31-4521-aea7-4b3f0ef5856f)
  <br>
   
 <h4> 5 </h4>
+
 ![image](https://github.com/colekightlinger/History-of-World-Civilizations/assets/25617747/19a2bcc6-5bb9-4863-a384-9bff05ea64be)
  <br>
  
