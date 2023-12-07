@@ -7,8 +7,10 @@ Place for Projects to be placed for ideas or possibly for final edits.
 
 <body>
 <h1> Historical Argument: </h1>
-<p> 
+<p>  Why do historians, archeologists, and geologists so vehemently reject new theories or hypothesis for ancient history when new evidence comes to light that supports these seemingly outlandish ideas, in this article we explore just one of these hypotheses called the the Younger Dryas Impact Theory and the scientific and historical world’s reaction to its proposed ideas.
 
+<h2> Background </h2>
+This hypothesis was first proposed in 2007 as a reason for why the Younger Dryas period happened in the first place and it was proposed that pieces of a comet exploded in Earth’s atmosphere above the Laurentide Ice Sheet. As previously mentioned new theories for old events tend to receive rejection until they can be proven with hard evidence as shown with the asteroid that killed the dinosaurs which is an idea that is now so widely accepted that it’s taught in textbooks was originally a laughed at idea back when it was proposed in the 1980’s (2). 
 </p>
 
   
@@ -23,33 +25,16 @@ Place for Projects to be placed for ideas or possibly for final edits.
  <br>
   ![image](https://github.com/colekightlinger/History-of-World-Civilizations/assets/25617747/19a2bcc6-5bb9-4863-a384-9bff05ea64be)
  <br>
-  ![image](https://github.com/colekightlinger/History-of-World-Civilizations/assets/25617747/267774e9-04df-4973-9402-73ec53468967)
- 
+  ![image](https://github.com/colekightlinger/History-of-World-Civilizations/assets/25617747/267774e9-04df-4973-9402-73ec53468967) 
 <br>
-<p> Primary Source 1 Analysis and context:
-</p>
-<br>
-<p> Primary Source 2 Analysis and context:
-</p>
+
+Primary source tie ins for context: 
+
 <br> 
-<p> Primary Source 3 Analysis and context: 
-</p>
-<br> 
-<p> Primary Source 4 Analysis and context:
-</p>
-<br> 
-<p>  Primary Source 5 Analysis and context: 
-</p>
-<br> 
-<p>  Primary Source 6 Analysis and context:
-</p>
-<br> 
-Secondary Source context for anlysis from above per first source:
-Secondary Source context for anlysis from above per second source:
-Secondary Source context for anlysis from above per third source:
+
+Secondary source tie ins for context
 
 
-Context from reference source for tie ins:
 <br>
 
 
@@ -69,7 +54,7 @@ Reference: Younger Dryas - Wikipedia
 <br>
   3 Secondaries: Premature rejection in science: The case of the Younger Dryas Impact Hypothesis (sagepub.com)
 
-Multiple lines of evidence for possible Human population decline/settlement reorganization during the early Younger Dryas - ScienceDirect
+Why won’t this debate about an ancient cold snap die? (sciencenews.org)
 
 The Younger Dryas impact hypothesis: Review of the impact evidence - ScienceDirect
 
