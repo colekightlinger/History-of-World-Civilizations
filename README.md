@@ -10,7 +10,7 @@ Place for Projects to be placed for ideas or possibly for final edits.
 <p>  Why do historians, archeologists, and geologists so vehemently reject new theories or hypothesis for ancient history when new evidence comes to light that supports these seemingly outlandish ideas, in this article we explore just one of these hypotheses called the the Younger Dryas Impact Theory and the scientific and historical world’s reaction to its proposed ideas.
 
 <h2> Background </h2>
-This hypothesis was first proposed in 2007 as a reason for why the Younger Dryas period happened in the first place and it was proposed that pieces of a comet exploded in Earth’s atmosphere above the Laurentide Ice Sheet. As previously mentioned new theories for old events tend to receive rejection until they can be proven with hard evidence as shown with the asteroid that killed the dinosaurs which is an idea that is now so widely accepted that it’s taught in textbooks was originally a laughed at idea back when it was proposed in the 1980’s (2). 
+This hypothesis was first proposed in 2007 as a reason for why the Younger Dryas period happened in the first place and it was proposed that pieces of a comet exploded in Earth’s atmosphere above the Laurentide Ice Sheet, They also claimed that the comet caused at least 30% of North America to be caught up in wildfires. As previously mentioned new theories for old events tend to receive rejection until they can be proven with hard evidence as shown with the asteroid that killed the dinosaurs which is an idea that is now so widely accepted that it’s taught in textbooks was originally a laughed at idea back when it was proposed in the 1980’s (2). 
 </p>
 
 
@@ -19,13 +19,15 @@ This hypothesis was first proposed in 2007 as a reason for why the Younger Dryas
 
 ![image](https://github.com/colekightlinger/History-of-World-Civilizations/assets/25617747/825ee763-3c98-45fa-9bb2-8305e5b4f590) 
   <br>
-  <h5> Cpaption needed for each image including where the image is from, why it's useful for this argument, and whats's being measured</h5>
-  
+  <h5> Murray Springs AZ, in this image the important measurement figures are the Charcoal levels or lack there of which means there were no wildfires at this site which at least proves that at this mat layer there were no fires. </h5>
+  <br>
 <h4> 2 </h4>
 
 ![image](https://github.com/colekightlinger/History-of-World-Civilizations/assets/25617747/09e12600-3d6b-4cbb-85f3-31d977a3ffd5)
  <br>
-  
+<h5> 
+</h5>
+  <br>
 <h4> 3 </h4>
 
 ![image](https://github.com/colekightlinger/History-of-World-Civilizations/assets/25617747/5cf885dd-30a5-46f1-95bf-81cbb3b6a972)
