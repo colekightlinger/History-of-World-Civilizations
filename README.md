@@ -71,16 +71,16 @@ The evidence produced for the theory came from geological samples of sediments d
 <br>
   3 Secondaries: Powell, James&nbsp; Lawrence. “Premature Rejection in Science: © the Author(s) 2022 the Case of The ...” Premature Rejection in Science: The Case of the Younger Dryas Impact Hypothesis, 2022, journals.sagepub.com/doi/pdf/10.1177/00368504211064272.  (1) 
 <br>
-
+<br>
 Gramling, Carolyn. “Why Won’t This Debate about an Ancient Cold Snap Die?” Science News, 13 June 2023, www.sciencenews.org/article/younger-dryas-comet-impact-cold-snap#:~:text=The%20first%20formal%20description%20of%20the%20Younger%20Dryas,American%20Geophysical%20Union%E2%80%99s%20spring%20meeting%20in%20Acapulco%2C%20Mexico.  (2) 
 <br>
-
+<br>
 B. Sweatman, Martin, et al. “The Younger Dryas Impact Hypothesis: Review of the Impact Evidence.” Earth-Science Reviews, Elsevier, 19 May 2021, www.sciencedirect.com/science/article/abs/pii/S0012825221001781.  (3) 
 <br>
-
+<br>
   5 Primaries images from one source: Stanley, Steven M. “Evidence for an Extraterrestrial Impact Event 12,900 Years Ago That ...” Evidence for an Extraterrestrial Impact 12,900 Years Ago That Contributed to the Megafaunal Extinctions and the Younger Dryas Cooling, 9 Oct. 2007, www.researchgate.net/publication/234175095_Evidence_for_an_Extraterrestrial_Impact_Event_12900_years_ago_that_Contributed_to_Megafaunal_Extinctions_and_the_Younger_Dryas_Cooling.  (0) 
 <br>
-
+<br>
   Reference Source: “Younger Dryas.” Wikipedia, Wikimedia Foundation, 29 Nov. 2023, en.wikipedia.org/wiki/Younger_Dryas.  (4) 
 </body>
 </html>
